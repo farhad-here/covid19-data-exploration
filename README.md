@@ -36,8 +36,7 @@ Each analysis includes both **data tables** and **interactive visualizations** (
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-  cd YOUR_REPO_NAME
+  git clone https://github.com/farhad-here/covid19-data-exploration.git
   ```
 2. Install dependencies:
   ```bash
